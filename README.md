@@ -53,9 +53,6 @@ Aspiring to become a multimodal fusion object detection engineer in the autonomo
 - **Fully Automated IoT Agricultural System**  
   Developed a fully automated agricultural monitoring system based on IoT technology, involving both hardware design and software development.
 
-## Job Seeking Intentions 💼
-
-- **Autonomous Driving Multimodal Fusion Object Detection Engineer**
 
 ## Contact Information 📞
 
