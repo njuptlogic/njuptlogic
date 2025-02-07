@@ -1,63 +1,63 @@
-# 徐基恒 - 自动驾驶多模态融合目标检测工程师
+# Xu Jiheng （徐基恒）- Autonomous Driving Multimodal Fusion Object Detection Engineer 🚗🔍
 
-## 个人简介
+## Personal Profile
 
-励志成为自动驾驶领域的多模态融合目标检测工程师，目前就读于南京邮电大学网络工程专业。本科期间积累了丰富的科研项目经验，特别是在自动驾驶、机器学习和物联网等方向。我的研究方向主要集中在自动驾驶的目标检测算法及其性能优化，特别是在多模态融合技术的应用方面。
+Aspiring to become a multimodal fusion object detection engineer in the autonomous driving field, I am currently studying Network Engineering at Nanjing University of Posts and Telecommunications. During my undergraduate years, I gained extensive research experience, particularly in autonomous driving, machine learning, and IoT. My research mainly focuses on object detection algorithms for autonomous driving and performance optimization, especially in the application of multimodal fusion technology.
 
-## 教育背景
+## Education Background 🎓
 
-- **南京邮电大学**  
-  网络工程专业，本科（2022.09 - 2026.06）  
-  GPA: 4.08，专业排名前2%  
-  主修课程：C语言、C++面向对象、高数、机器学习、线性代数、Python、计算机网络、操作系统等
+- **Nanjing University of Posts and Telecommunications**  
+  Network Engineering, Bachelor's (Sep 2022 - Jun 2026)  
+  GPA: 4.08, ranked in the top 2%  
+  Major Courses: C Programming, Object-Oriented C++, Advanced Mathematics, Machine Learning, Linear Algebra, Python, Computer Networks, Operating Systems, etc.
 
-- **南洋理工大学**  
-  人工智能方向访学结业，荣获优秀等第
+- **Nanyang Technological University**  
+  Completed the visiting program in Artificial Intelligence, awarded Excellent Degree
 
-## 专业技能
+## Professional Skills 💻
 
-- 精通自动驾驶目标检测算法，成功复现多个相关算法，并进行精度优化
-- 熟练使用Linux操作系统（CentOS、Ubuntu等）
-- 精通Python、C/C++等编程语言，具备较强的代码调试能力
-- 擅长多卡训练，优化多模态传感器数据处理，显卡利用率达98%以上
-- 精通项目环境配置及异地编程
+- Proficient in autonomous driving object detection algorithms, successfully reproduced several relevant algorithms, and optimized their precision
+- Experienced with Linux operating systems (CentOS, Ubuntu, etc.)
+- Proficient in Python, C/C++, and other programming languages, with strong debugging skills
+- Skilled in multi-GPU training and optimizing multimodal sensor data processing, achieving GPU utilization rates of over 98%
+- Proficient in project environment configuration and remote programming
 
-## 竞赛与荣誉
+## Competitions & Honors 🏆
 
-- **第十八届“挑战杯”全国大学生课外学术科技作品竞赛**  
-  全国一等奖，江苏省特等奖（自动驾驶方向）
+- **18th "Challenge Cup" National College Students Extracurricular Academic and Technological Works Competition**  
+  National First Prize, Jiangsu Province Special Prize (Autonomous Driving Direction)
+
+- **Mathematical Modeling Competition (MCM/ICM)**  
+  International First Prize (Machine Learning Direction)
+
+- **2023 First National Cluster Intelligence Technology Challenge UAV "Swarm Delivery" Competition**  
+  National Excellence Award
+
+- **Internet+ College Students Innovation and Entrepreneurship Competition**  
+  Campus Gold Award
+
+- **Internet of Things Design Competition**  
+  Campus Third Prize
+
+- **Energy Conservation and Emission Reduction Innovation Practice Competition**  
+  Reached the National Competition (Mainly responsible for Arduino programming and hardware circuit design)
+
+## Research Projects & Development Experience 🛠️
+
+- **Autonomous Driving Multimodal Fusion Object Detection**  
+  As a key member, responsible for coding, sensor data training, and object detection algorithm generation, successfully improving SOTA model accuracy by over 5%.
   
-- **数学建模美赛**  
-  国际一等奖（机器学习方向）
+- **Autonomous Driving and Millimeter-Wave Radar Application Analysis**  
+  Investigated the application of millimeter-wave radar in autonomous driving and optimized the radar sensor data processing flow.
   
-- **2023首届全国集群智能技术挑战赛无人机“蜂群速递”竞赛**  
-  全国优胜奖
+- **Fully Automated IoT Agricultural System**  
+  Developed a fully automated agricultural monitoring system based on IoT technology, involving both hardware design and software development.
 
-- **互联网+大学生创新创业大赛**  
-  校金奖
-  
-- **物联网设计竞赛**  
-  校三等奖
+## Job Seeking Intentions 💼
 
-- **节能减排创新实践大赛**  
-  进入国赛（主负责Arduino程序编写和硬件电路搭建）
+- **Autonomous Driving Multimodal Fusion Object Detection Engineer**
 
-## 研究项目与开发经历
+## Contact Information 📞
 
-- **自动驾驶多模态融合目标检测**  
-  作为主力成员，负责代码编写、传感器数据训练及目标检测算法生成，成功提升SOTA模型精度5%以上。
-  
-- **无人驾驶与毫米波雷达应用分析**  
-  探讨了毫米波雷达在自动驾驶中的应用，优化了雷达传感器数据处理流程。
-  
-- **全自动物联农业系统**  
-  完成了基于物联网技术的全自动农业监控系统，涉及到硬件设计与软件开发。
-
-## 求职意向
-
-- **自动驾驶多模态融合目标检测工程师**
-
-## 联系方式
-
-- **电话**: 137-7629-7295  
-- **邮箱**: 2782584672@qq.com
+- **Phone**: 137-7629-7295  
+- **Email**: 2782584672@qq.com  
