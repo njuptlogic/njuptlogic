@@ -50,6 +50,7 @@ Aspiring to become a multimodal fusion object detection engineer in the autonomo
   Reached the National Competition (Mainly responsible for Arduino programming and hardware circuit design)
 
 ## Research Projects & Development Experience 🛠️
+- **Embodied Intelligence VLN, VLA**
 
 - **Autonomous Driving Multimodal Fusion Object Detection**  
   As a key member, responsible for coding, sensor data training, and object detection algorithm generation, successfully improving SOTA model accuracy by over 5%.
