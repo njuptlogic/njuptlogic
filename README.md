@@ -50,8 +50,7 @@ Aspiring to become a multimodal fusion object detection engineer in the autonomo
   Reached the National Competition (Mainly responsible for Arduino programming and hardware circuit design)
 
 ## Research Projects & Development Experience 🛠️
-- **Embodied Intelligence VLN, VLA**
-- Graduated from Nanjing University of Posts and Telecommunications with a degree in Network Engineering, subsequently admitted to Beihang University to pursue a Master's in Unmanned Systems Science and Technology. Aspiring to specialise in embodied intelligence. Accumulated extensive research experience during undergraduate studies, particularly in multimodal fusion, autonomous driving, and machine learning. My postgraduate research focuses on visual-linguistic navigation within embodied intelligence, with particular emphasis on the application of multimodal fusion techniques.
+- **Embodied Intelligence VLN, VLA** <br>Graduated from Nanjing University of Posts and Telecommunications with a degree in Network Engineering, subsequently admitted to Beihang University to pursue a Master's in Unmanned Systems Science and Technology. Aspiring to specialise in embodied intelligence. Accumulated extensive research experience during undergraduate studies, particularly in multimodal fusion, autonomous driving, and machine learning. My postgraduate research focuses on visual-linguistic navigation within embodied intelligence, with particular emphasis on the application of multimodal fusion techniques.
 
 - **Autonomous Driving Multimodal Fusion Object Detection**  
   As a key member, responsible for coding, sensor data training, and object detection algorithm generation, successfully improving SOTA model accuracy by over 5%.
