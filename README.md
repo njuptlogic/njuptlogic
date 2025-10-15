@@ -16,7 +16,7 @@ Graduated from Nanjing University of Posts and Telecommunications with a degree 
 
 - **Nanjing University of Posts and Telecommunications**  
   Network Engineering, Bachelor's (Sep 2022 - Jun 2026)  
-  GPA: 4.08, ranked in the top 2%  
+  GPA: 4.09, ranked in the top 2%  
   Major Courses: C Programming, Object-Oriented C++, Advanced Mathematics, Machine Learning, Linear Algebra, Python, Computer Networks, Operating Systems, etc.
 
 
