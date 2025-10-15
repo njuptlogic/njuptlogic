@@ -8,13 +8,18 @@ Aspiring to become a multimodal fusion object detection engineer in the autonomo
 
 ## Education Background 🎓
 
+- **Beijing University of Aeronautics and Astronautics**  
+  Institute of Unmanned Systems, Master's student in Unmanned Systems Science and Technology
+
+- **Nanyang Technological University**  
+  Completed the visiting program in Artificial Intelligence, awarded Excellent Degree
+
 - **Nanjing University of Posts and Telecommunications**  
   Network Engineering, Bachelor's (Sep 2022 - Jun 2026)  
   GPA: 4.08, ranked in the top 2%  
   Major Courses: C Programming, Object-Oriented C++, Advanced Mathematics, Machine Learning, Linear Algebra, Python, Computer Networks, Operating Systems, etc.
 
-- **Nanyang Technological University**  
-  Completed the visiting program in Artificial Intelligence, awarded Excellent Degree
+
 
 ## Professional Skills 💻
 
