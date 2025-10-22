@@ -1,4 +1,4 @@
-# Xu Jiheng （徐基恒）- Autonomous Driving Multimodal Fusion Object Detection Engineer 🚗🔍
+# Xu Jiheng （徐基恒）- Embodied Intelligence for Unmanned Systems: VLN and VLA；Autonomous Driving Multimodal Fusion Object Detection  🚗🔍
 
 
 
